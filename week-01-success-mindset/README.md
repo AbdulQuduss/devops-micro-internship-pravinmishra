@@ -33,8 +33,7 @@ You will reuse this in later weeks. So do it properly once.
 
 ## Answer
 
-Add your answer here...
-
+As a traditional Yoruba man, I hold several beliefs about career, money, and relationships that many people around me disagree with. One of them is that money should be used as a tool to create meaningful experiences, strengthen relationships, and improve lives—not simply accumulated for its own sake. While I believe in saving and investing wisely, I also believe that wealth has little value if it is never used to support loved ones, create lasting memories, or make a positive impact. Many people prioritize keeping money at all costs, but I believe its greatest purpose is to serve people rather than become the ultimate goal itself. 
 ---
 
 # Assignment 2. What are the top 3 objective truths you discovered through experimentation and results?
@@ -55,11 +54,11 @@ Write each truth in this format:
 
 ### Truth
 
-Add your answer here...
+Experience is the best teacher.
 
 ### Evidence from my life
 
-Add your answer here...
+I have tried learning new skills through YouTube videos, online courses, and physical classes. While these resources gave me a good foundation, I discovered that I truly understood a concept only after applying it repeatedly on my own. Every time I practiced, made mistakes, and solved real problems, my confidence and understanding improved. This has been true throughout my journey in IT, where hands-on experience has consistently taught me more than theory alone.
 
 ---
 
@@ -67,11 +66,10 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
-
+Death is final.
 ### Evidence from my life
 
-Add your answer here...
+Growing up, I had friends with whom I shared dreams, ambitions, and plans for the future. Sadly, some of them passed away before those dreams could become reality. Their deaths made me realize that life is unpredictable and that death brings an end to every unfinished plan and opportunity. This experience has encouraged me to value the present, pursue my goals with urgency, and appreciate the people around me while I still can.
 
 ---
 
@@ -79,11 +77,11 @@ Add your answer here...
 
 ### Truth
 
-Add your answer here...
+Consistent learning and self-discipline matter more than natural talent.
 
 ### Evidence from my life
 
-Add your answer here...
+I started my career in IT Support, but I never viewed it as my final destination. I invested my personal time in learning networking, cloud computing, Linux, automation, and DevOps. Instead of remaining comfortable in one role, I deliberately built a roadmap to transition into cloud engineering by pursuing professional certifications, hands-on projects, and practical experience.
 
 ---
 
@@ -135,13 +133,31 @@ Include this line:
 
 ## Your Article
 
-Add your answer here...
+Assignment 3. What does your 2.0 version look like?
+
+Published: July 2031
+
+Five years ago, Qudus was an IT Support professional with an ambitious vision of building a career in cloud computing. Today, that vision has become reality. He established himself as a respected Cloud Engineer in Canada, where he designed and managed secure, scalable cloud infrastructure for organizations operating across multiple continents.
+
+His journey was marked by discipline and continuous learning. He earned several industry-recognized certifications, including AWS, Microsoft Azure, Kubernetes, Terraform, Linux, and networking certifications, which strengthened his expertise in cloud architecture, automation, and infrastructure as a code. These credentials, combined with years of practical experience, enabled him to lead cloud migration projects, optimize enterprise infrastructure, and build highly available production environments.
+
+Beyond his professional achievements, Qudus completed a Master's degree in Robotics, blending his passion for intelligent systems with cloud technologies. His research contributed to practical applications that connected robotics with cloud computing, opening opportunities for scalable automation and remote robotic operations.
+
+His technical portfolio became a strong testament to his capabilities. Through an active GitHub profile, he published production-ready automation scripts, Terraform modules, Kubernetes deployments, CI/CD pipelines, and cloud architecture projects that attracted attention from recruiters and fellow engineers worldwide. His online portfolio documented the projects he built, the challenges he solved, and the measurable business outcomes he delivered.
+
+Outside of engineering, Qudus built a growing online presence as a motivational speaker. Through regular videos, blog posts, and conference presentations, he encouraged young professionals to embrace lifelong learning, overcome self-doubt, and pursue excellence regardless of their starting point.
+
+His greatest accomplishment, however, extended beyond certifications and career milestones. After relocating to Canada, he built a fulfilling family life. He married the love of his life, and together they welcomed their first child. Looking back over the past five years, the transformation was remarkable. 
+
+Qudus did not simply chase careers, he built a legacy of continuous growth, technical excellence, community impact, and family. His story became proof that consistent effort, lifelong learning, and resilience could turn ambitious dreams into tangible achievements.
+
+> **P.S. This post is a part of DevOps Micro Internship with Agentic AI Cohort-3 by [Pravin Mishra](https://www.linkedin.com/in/pravin-mishra-aws-trainer/). You can start your DevOps journey by joining this [Discord community](https://discord.pravinmishra.com/) (https://discord.pravinmishra.com/ ).**
 
 ### Public Link
 
 Paste your link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/qudus-oladosu_assignment-3-what-does-your-20-version-share-7478484176669745152-yXRb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE`
 
 ---
 
@@ -165,7 +181,7 @@ This is about self-awareness, not judgment.
 
 ### Answer Format
 
-**Yes / No**
+**No**
 
 If Yes:
 
@@ -199,16 +215,16 @@ Choose books that improve:
 
 ## Book List
 
-1. Add your answer here...
-2. Add your answer here...
-3. Add your answer here...
-4. Add your answer here...
-5. Add your answer here...
-6. Add your answer here...
-7. Add your answer here...
-8. Add your answer here...
-9. Add your answer here...
-10. Add your answer here...
+1. The 10x Rule, Grant Cardone
+2. 48 laws of power, Roobert Greene
+3. Atomic Habits, James Clear
+4. A guide to the good life, William R. Irvine
+5. Act like a success, Steve Harvey
+6. Rich Dad's Cashflow Quadrant, Robert Kiyosaki
+7. Eat That Frog, Brian Tracy
+8. Mastery, Robert Greene
+9. The Game, Neil Strauss
+10. The 5AM Club, Robin Sharma
 
 ---
 
@@ -237,16 +253,9 @@ List topics only. No need to share numbers.
 
 ## My Metrics
 
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
-* Add your answer here...
+* Daily Steps
+* Projects shipped
+* Spending tracker
 
 ---
 
@@ -268,7 +277,7 @@ Examples:
 
 ### Did You Do It?
 
-**Yes / No**
+**No**
 
 Answer:
 
@@ -290,19 +299,20 @@ Example:
 
 #### My Weekly Routine
 
-Add your answer here...
-
+* Mon - Fri: Udemy Courses + Assignment Work
+* Sat: DMI Session + Undergraduate Class
+* Sun: Undergraduate Class + Laundry + Rest + Family/Friends 
 ---
 
 ### Focus Blocks
 
 #### When Will You Do DMI Work? (Days + Time)
 
-Add your answer here...
+Mon - Fri while less busy at work
 
 #### How Many Sessions Per Week?
 
-Add your answer here...
+At least 5
 
 ---
 
@@ -316,35 +326,35 @@ Examples:
 
 #### My Distraction Rules
 
-Add your answer here...
-
+* Phone stays silent during deepwork sessions
+* No background fillers while working
 ---
 
 # Reflection – Week 1
 
 ### Biggest insight I got about myself this week
 
-Add your answer here...
+It's quite difficult to do things as planned without structure
 
 ### My biggest weakness/loop I noticed
 
-Add your answer here...
+I noticed that my atteention span strays quickly
 
 ### One system I will implement from this week (exact habit + time)
 
-Add your answer here...
+I'll close all browser tabs while working
 
 ### LinkedIn Post
 
 Paste your LinkedIn post link here:
 
-`__________________________`
+`https://www.linkedin.com/posts/qudus-oladosu_assignment-3-what-does-your-20-version-share-7478484176669745152-yXRb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE`
 
 ---
 
 ## 10. Proof of Work
 
-- LinkedIn Post URL: **ADD LINK HERE**  
+- LinkedIn Post URL: **(https://www.linkedin.com/posts/qudus-oladosu_assignment-3-what-does-your-20-version-share-7478484176669745152-yXRb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE)**  
 - Blog / Medium : **ADD LINK HERE**  
 
 ---
