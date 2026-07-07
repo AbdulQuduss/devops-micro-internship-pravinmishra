@@ -80,6 +80,7 @@ mkdir -p .claude/skills/deploy
 **Screenshots Required:**
 - Screenshot 1 — VS Code sidebar showing `.claude/skills/` folder with all 4 subfolders visible
 
+   ![Screenshot 1](..\screenshots\Screenshot3-1.jpg)
 ---
 
 ### Task 2 — Add the Skill Files
@@ -100,7 +101,12 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 2 — `.claude/skills/scaffold-terraform/` open in VS Code showing both `SKILL.md` and `template-spec.md`
+   
+   ![Screenshot 2](..\screenshots\Screenshot3-2.jpg)
+
 - Screenshot 3 — `tf-plan/SKILL.md` frontmatter showing `allowed-tools: Bash, Read, Grep` (no Write) and `disable-model-invocation: true`
+
+   ![Screenshot 3](..\screenshots\Screenshot3-3.jpg)
 ---
 
 ### Task 3 — Run /scaffold-terraform
@@ -122,8 +128,12 @@ mkdir -p .claude/skills/deploy
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's response showing the scaffold complete with the file list
+   
+   ![Screenshot 4](..\screenshots\Screenshot3-4.jpg)
+
 - Screenshot 5 — VS Code sidebar showing the `terraform/` folder with all generated files inside
 
+   ![Screenshot 5](..\screenshots\Screenshot3-5.jpg)
 ---
 
 ### Task 4 — Run terraform init then /tf-plan
@@ -152,6 +162,8 @@ Then in Claude Code:
 
 **Screenshots Required:**
 - Screenshot 6 — Claude's `/tf-plan` response showing it ran the command and analyzed the result (pass or auth error both count)
+
+   ![Screenshot 6](..\screenshots\Screenshot3-6.jpg)
 
 ---
 
@@ -187,7 +199,12 @@ Create a LinkedIn post including:
 
 **Submit:**
 - LinkedIn post URL
+
+   https://www.linkedin.com/posts/qudus-oladosu_dmibypravinmishra-devops-agenticai-share-7480361452587950080-YTgs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE
+
 - Screenshot of the post
+
+   ![LinkedIn Post](..\screenshots\Screenshot-LinkedIn.jpg)
 
 ---
 

@@ -29,7 +29,6 @@ On real engineering teams, every new team member reads the onboarding doc before
 - Generate a starter CLAUDE.md using `/init`
 - Write all 5 sections: Overview, Architecture, Commands, Conventions, Safety
 - Prove the file works by testing before and after Claude reads it
-
 ---
 
 ## 5. Important Instructions (Global Rules)
@@ -77,6 +76,7 @@ What is this project and how should I deploy it?
 **Screenshots Required:**
 - Screenshot 1 — Claude’s generic response before CLAUDE.md exists (project contains only `index.html`, `style.css`, `images/`, `README.MD`, `privacy.html`, `terms.html`)
 
+   ![Screenshot 1](..\screenshots\Screenshot2-1.jpg)
 ---
 
 ### Task 2 — Generate an initial CLAUDE.md using /init and review the auto-generated content in VS Code.
@@ -98,6 +98,7 @@ What is this project and how should I deploy it?
 **Screenshots Required:**
 - Screenshot 2 — The auto-generated CLAUDE.md open in VS Code showing its content
 
+   ![Screenshot 2](..\screenshots\Screenshot2-2.jpg)
 ---
 
 ### Task 3 — Customize the CLAUDE.md
@@ -124,6 +125,7 @@ What is this project and how should I deploy it?
 **Screenshots Required:**
 - Screenshot 3 — Your customized CLAUDE.md in VS Code showing all 5 sections (scroll to show the full file)
 
+   ![Screenshot 3](..\screenshots\Screenshot2-3.jpg)
 ---
 
 ### Task 4 — Test the After State
@@ -148,8 +150,12 @@ Add a React component to the homepage.
 
 **Screenshots Required:**
 - Screenshot 4 — Claude's specific, detailed answer after reading CLAUDE.md (Claude mentioning S3, CloudFront and Terraform)
+
+   ![Screenshot 4](..\screenshots\Screenshot2-4.jpg)
+
 - Screenshot 5 — Claude refusing or warning against adding React because of the "No JavaScript" convention defined in CLAUDE.md
 
+   ![Screenshot 5](..\screenshots\Screenshot2-5.jpg)
 ---
 
 ### Task 5 — Commit and push your changes to your fork in GitHub
@@ -187,6 +193,7 @@ git push origin main
 
 - Screenshot 6 — `CLAUDE.md` visible in your GitHub repository after pushing the commit
 
+   ![Screenshot 6](..\screenshots\Screenshot2-6.jpg)
 ---
 
 ## 8. Industry Insight
