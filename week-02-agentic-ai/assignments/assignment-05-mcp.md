@@ -79,6 +79,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 1 — GitHub token creation page showing the selected scopes (`repo`, `read:user`) — token value must NOT be visible
 
+![Screeenshot 1](../screenshots/Screenshot5-1.jpg)
 ---
 
 ### Task 2 — Create .mcp.json at the Project Root
@@ -108,6 +109,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 2 — `.mcp.json` open in VS Code showing the full configuration
 
+![Screeenshot 2](../screenshots/Screenshot5-2.jpg)
 ---
 
 ### Task 3 — Add Your Token to settings.local.json
@@ -135,6 +137,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 3 — `settings.local.json` open in VS Code showing the `env` section — **blur or cover the actual GitHub token value**
 
+![Screeenshot 3](../screenshots/Screenshot5-3.jpg)
 ---
 
 ### Task 4 — Verify the Connection with /mcp
@@ -156,6 +159,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 4 — `/mcp` output showing `github: connected`
 
+![Screeenshot 4](../screenshots/Screenshot5-4.jpg)
 ---
 
 ### Task 5 — Run a Live GitHub Query
@@ -177,6 +181,7 @@ List all my GitHub repositories.
 **Screenshots Required:**
 - Screenshot 5 — Claude's response showing your real GitHub repositories (you may blur individual repo names if preferred)
 
+![Screeenshot 5](../screenshots/Screenshot5-5.jpg)
 ---
 
 ## 8. Industry Insight

@@ -91,6 +91,8 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 1 — `settings.json` open in VS Code showing the full permissions configuration
 
+![Screeenshot 1](../screenshots/Screenshot6-1.jpg)
+
 ---
 
 ### Task 2 — Add the UserPromptSubmit Hook
@@ -125,6 +127,7 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 2 — settings.json showing UserPromptSubmit hook
 
+![Screeenshot 2](../screenshots/Screenshot6-2.jpg)
 ---
 
 ### Task 3 — Add the PreToolUse Hook
@@ -156,6 +159,8 @@ Each task must be completed sequentially.
 **Screenshots Required:**
 - Screenshot 3 — full settings.json with permissions and hooks
 
+![Screeenshot 3](../screenshots/Screenshot6-3.jpg)
+
 ---
 
 ### Task 4 — Test the UserPromptSubmit Hook
@@ -178,6 +183,7 @@ delete all files in the terraform folder
 **Screenshots Required:**
 - Screenshot 4 — blocked prompt due to UserPromptSubmit hook
 
+![Screeenshot 4](../screenshots/Screenshot6-4.jpg)
 ---
 
 ### Task 5 — Test the PreToolUse Hook

@@ -77,6 +77,8 @@ mkdir -p .claude/agents
 **Screenshots Required:**
 - Screenshot 1 — VS Code sidebar showing `.claude/agents/` with all 3 files
 
+![Screenshot 1](../screenshots/Screenshot4-1.jpg)
+
 ---
 
 ### Task 2 — Compare the Agent Configurations
@@ -89,15 +91,24 @@ mkdir -p .claude/agents
 3. Open `tf-writer.md` — note the `tools` and `model` fields
 4. Write a short answer (2–3 sentences each) to these 3 questions:
    - Why does the cost optimizer use Haiku instead of Sonnet?
+   Cost optimizer uses haiku because it's the cheapest model. It's job does not require deep thinking and writing of codes so using a mor expensive agent is not necessary.
+
    - Why does the security auditor NOT have Write in its tools list?
+   The function of the security auditor is to review codes written, compare it with a prewritten checklist and provide feedback, it is not expected to change the code or edit any observed findings.
+
    - Why does the tf-writer use `inherit` instead of a specific model?
+   The tf-writer is tasked with generating production ready terraform codes, as such it requires the best possible agent it can get. While it's possible to select a smarter agent, inheritting the agent being used for the project is the most reasonably cost-effective option.
 
 **Expected Output:** 3 written answers in your GitHub Repository folder showing you understand the design decisions behind each agent.
 
 **Screenshots Required:**
 - Screenshot 2 — `security-auditor.md` frontmatter showing model and tools configuration
+
+![Screenshot 2](../screenshots/Screenshot4-2.jpg)
+
 - Screenshot 3 — `cost-optimizer.md` frontmatter showing the model and tools configuration
 
+![Screenshot 3](../screenshots/Screenshot4-3.jpg)
 ---
 
 ### Task 3 — Run the Security Auditor
@@ -119,8 +130,12 @@ Audit my Terraform files for security issues.
 
 **Screenshots Required:**
 - Screenshot 4 — The delegation message showing Claude launched the security-auditor
+
+![Screenshot 4](../screenshots/Screenshot4-4.jpg)
+
 - Screenshot 5 — Security audit report output
 
+![Screenshot 5](../screenshots/Screenshot4-5.jpg)
 ---
 
 ### Task 4 — Run the Cost Optimizer
@@ -142,6 +157,7 @@ Review my Terraform infrastructure for cost optimization.
 **Screenshots Required:**
 - Screenshot 6 — The full cost optimization report
 
+![Screenshot 6](../screenshots/Screenshot4-6.jpg)
 ---
 
 ## 8. Industry Insight
