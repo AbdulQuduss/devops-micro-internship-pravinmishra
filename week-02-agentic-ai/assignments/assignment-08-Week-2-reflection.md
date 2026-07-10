@@ -111,6 +111,8 @@ For example, you can write about:
 * Why hooks and permissions are important for safety
 * How memory helps make the workflow more consistent
 
+This week the biggest concept that clicked for me was the Agentic Loop in Claude Code. Instead of waiting for step-by-step instructions, Claude Code can plan, execute, verify results, and iterate until a task is completed. That shift from simply responding to actively solving problems completely changed how I think about AI assisted development. Every week of this program is expanding my perspective on what's possible with AI in DevOps, and I'm excited to keep learning.
+
 ---
 
 #### 2. Biggest insight I got about myself this week
@@ -124,6 +126,7 @@ For example:
 * Did you become more confident using terminal commands?
 * Did you realize documentation is part of engineering?
 
+I've realized that I learn best by doing, not just watching or reading. The more time I spent in the terminal running commands, making mistakes, troubleshooting, and trying again, the more confident I became. This week reinforced that consistent hands-on practice builds confidence much faster than passive learning. Every error became an opportunity to understand how the tools actually work.
 ---
 
 #### 3. My biggest weakness or loop I noticed
@@ -138,6 +141,7 @@ For example:
 * I forget to take screenshots at the correct step
 * I do not commit changes regularly
 
+One thing I've noticed about myself is that I tend to panic when a command fails. My first instinct is often to think I've broken something, but this week reminded me that errors are a normal part of learning. I'm learning to slow down, read the error message carefully, and troubleshoot one step at a time instead of rushing to find a quick fix.
 ---
 
 #### 4. One system I will implement from this week
@@ -154,6 +158,8 @@ Example:
 
 > Before starting every assignment, I will create a checklist in my notebook and verify each screenshot requirement before moving to the next task. I will do this every evening before my study session so that I do not miss proof during submission.
 
+Starting now, I'll spend 30 minutes every evening practicing terminal commands and reviewing what I learned that day. Doing this consistently will reinforce concepts while they're still fresh, improve my confidence with the command line, and make troubleshooting feel more natural over time.
+
 ---
 
 #### 5. What I learned about Agentic AI and DevOps
@@ -168,6 +174,8 @@ You may include points like:
 * Reusable skills reduce manual work
 * DevOps engineers need both automation and control
 * Human review is still important
+
+Before this program, I mostly saw DevOps as writing scripts, managing infrastructure, and automating deployments. After working with Agentic AI tools, I now see DevOps differently. Automation is still essential, but so is control. Agentic AI can plan tasks, generate code, and solve problems faster, but it's still the engineer's responsibility to review, validate, and make the final decisions. The biggest lesson for me is that the future of DevOps isn't about AI replacing engineers, it's about engineers who know how to work effectively with AI.
 
 ---
 
@@ -184,6 +192,7 @@ Examples:
 * Setting up memory or permissions
 * Fixing an error by reading the output carefully
 
+One achievement I'm proud of was successfully creating the .claude/skills/ folder structure correctly. Having the correct structure in place ensured everything worked as expected and gave me a better understanding of how Claude Code discovers and uses custom skills. It's a small milestone, but it's another step toward becoming more confident with AI-powered development workflows.
 ---
 
 ## 9. Minimum Requirements
@@ -198,6 +207,7 @@ Your reflection blog must include:
 * One clear habit/system you will implement next week
 * Blog/document link must be publicly viewable or accessible to reviewers
 
+https://www.linkedin.com/posts/qudus-oladosu_dmibypravinmishra-agenticai-claudecode-share-7481452454723784705-E312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE
 ---
 
 ## 10. LinkedIn Post Requirement
@@ -224,6 +234,7 @@ Hashtags:
 
 Submit the GitHub Repo Link. 
 
+https://github.com/AbdulQuduss/devops-micro-internship-pravinmishra.git
 ---
 
 ## 12. Completion Checklist

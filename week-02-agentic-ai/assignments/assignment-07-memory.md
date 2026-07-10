@@ -77,6 +77,7 @@ Where does your memory file live for this project? Show me the full path.
 **Screenshots Required:**
 - Screenshot 1 — Memory file path shown by Claude
 
+![Screnshot 1](../screenshots/Screenshot7-1.jpg)
 ---
 
 ### Task 2 — Give Claude Information to Remember
@@ -97,8 +98,12 @@ Remember the following for all future sessions: The CSS hero section uses a dark
 
 **Screenshots Required:**
 - Screenshot 2 — Claude confirming the memory was saved
+
+![Screnshot 2](../screenshots/Screenshot7-2.jpg)
+
 - Screenshot 3 — The `MEMORY.md` file open in VS Code showing the saved content
 
+![Screnshot 3](../screenshots/Screenshot7-3.jpg)
 ---
 
 ### Task 3 — Close the Session Completely
@@ -121,6 +126,7 @@ Remember the following for all future sessions: The CSS hero section uses a dark
 **Screenshots Required:**
 - Screenshot 4 — VS Code reopened with a fresh Claude Code session showing no previous conversation
 
+![Screnshot 4](../screenshots/Screenshot7-4.jpg)
 ---
 
 ### Task 4 — Prove Memory Recall Across Sessions
@@ -149,8 +155,12 @@ Should I add a JavaScript animation to the hero section?
 
 **Screenshots Required:**
 - Screenshot 5 — Claude recalling hero section colors
+
+![Screnshot 5](../screenshots/Screenshot7-5.jpg)
+
 - Screenshot 6 — Claude refusing JavaScript request based on memory rule
 
+![Screnshot 6](../screenshots/Screenshot7-6.jpg)
 ---
 
 ## 8. Industry Insight
@@ -186,7 +196,11 @@ Create a LinkedIn post including:
 
 **Submit:**
 - LinkedIn post URL
+
+https://www.linkedin.com/posts/qudus-oladosu_dmibypravinmishra-devops-agenticai-share-7480987839954989056-JTp1/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE
+
 - Screenshot of the post
+![Screnshot](../screenshots/Screenshot2-LinkedIn.jpg)
 
 ---
 
