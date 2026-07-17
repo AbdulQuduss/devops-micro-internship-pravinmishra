@@ -378,13 +378,13 @@ Leaving cloud resources active while they're not needed makes the company or use
 
 Paste your LinkedIn post URL here:
 
-`__________________________`
+`https://www.linkedin.com/posts/qudus-oladosu_dmi-cohort-4-live-micro-internship-waiting-activity-7483879104690229248-UKCg?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE`
 
 ---
 
 #### Screenshot — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot](\screenshots\Screenshot3-LinkedIn.jpg)
 
 ---
 
