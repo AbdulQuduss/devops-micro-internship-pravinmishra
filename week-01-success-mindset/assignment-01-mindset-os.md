@@ -189,7 +189,7 @@ If Yes:
 
 ## Answer
 
-Add your answer here...
+
 
 ---
 
@@ -281,7 +281,7 @@ Examples:
 
 Answer:
 
-Add your answer here...
+
 
 ---
 
@@ -355,7 +355,8 @@ Paste your LinkedIn post link here:
 ## 10. Proof of Work
 
 - LinkedIn Post URL: **(https://www.linkedin.com/posts/qudus-oladosu_assignment-3-what-does-your-20-version-share-7478484176669745152-yXRb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE)**  
-- Blog / Medium : **ADD LINK HERE**  
+
+- Blog / Medium :  
 
 ---
 
