@@ -21,7 +21,7 @@ This is the **official DevOps Micro Internship repository** by Pravin Mishra.
 
 You now have your own copy at:
 ```
-https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra
+https://github.com/AbdulQuduss/devops-micro-internship-pravinmishra
 ```
 
 ---
@@ -31,7 +31,7 @@ https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra
 Open your terminal and run:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra
+git clone https://github.com/AbdulQuduss/devops-micro-internship-pravinmishra
 cd devops-micro-internship-pravinmishra
 ```
 
@@ -78,7 +78,7 @@ git push
 Paste your **forked repo URL** into the Google Form submission link shared in the Discord / live session.
 
 ```
-https://github.com/YOUR-USERNAME/devops-micro-internship-pravinmishra
+https://github.com/AbdulQuduss/devops-micro-internship-pravinmishra
 ```
 
 ---

@@ -79,8 +79,8 @@ Week 02 → Agentic AI with Claude Code
 Week 03 → Linux & Bash for DevOps
 [![Week 03 – Linux & Bash](./badges/week-03.svg)](./week-03-linux-and-bash-for-devops/) 
 
-<!-- Week 04 → Git & GitHub -->
-<!-- [![Week 04 – Git](./badges/week-04.svg)](./week-04-github/) -->
+Week 04 → Git & GitHub 
+[![Week 04 – Git](./badges/week-04.svg)](./week-04-github/)
 
 <!-- Week 05 → DevOps Lifecycle & Agile -->
 <!-- [![Week 05 – Agile](./badges/week-05.svg)](./week-05-devops-lifecycle/) -->
@@ -130,12 +130,12 @@ Week 03 → Linux & Bash for DevOps
 
 | Week | Topic | Status | Assignment | LinkedIn Post | Blog Post |
 |------|-------|--------|------------|---------------|-----------|
-| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | — | — |
-| 01 | Success Mindset | ✅ Completed | ✅ Solved | — | — |
-| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | — | — |
+| 00 | Internet & Networking Basics | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_i-made-a-major-move-towards-fulfilling-my-activity-7413980067833376768-IxuQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | — |
+| 01 | Success Mindset | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_assignment-3-what-does-your-20-version-share-7478484176669745152-yXRb/?utm_source=social_share_send&utm_medium=member_desktop_web&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | — |
+| 02 | Agentic AI with Claude Code | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_dmibypravinmishra-agenticai-claudecode-share-7481452454723784705-E312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | — |
 | 03 | Linux for DevOps | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_dmi-cohort-4-live-micro-internship-waiting-share-7483879103398359040-rjiy/?highlightedUpdateUrn=urn%3Ali%3Aactivity%3A7483879104690229248&highlightedUpdateType=SOCIAL_SHARE&origin=SOCIAL_SHARE&utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | https://medium.com/@oladosuqudus/week-3-reflection-linux-and-bash-for-devops-5a24da8e2120 |
 | 04 | Bash Scripting | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_dmi-cohort-4-live-micro-internship-waiting-activity-7483934635547303936-Qluv?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | https://medium.com/@oladosuqudus/week-3-reflection-linux-and-bash-for-devops-5a24da8e2120 |
-| 05 | Git & GitHub | ⬜ Not Started | ⏳ Pending | — | — |
+| 05 | Git & GitHub | ✅ Completed | ✅ Solved | https://www.linkedin.com/posts/qudus-oladosu_dmi-devops-micro-internship-with-agentic-share-7486464914228928512-COLs/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE | https://medium.com/@oladosuqudus/week-4-reflection-building-safer-git-workflows-with-automation-and-ai-e75881874c7d |
 | 06 | DevOps Lifecycle & Agile | ⬜ Not Started | ⏳ Pending | — | — |
 | 07 | AWS Cloud | ⬜ Not Started | ⏳ Pending | — | — |
 | 08 | Azure Cloud | ⬜ Not Started | ⏳ Pending | — | — |
