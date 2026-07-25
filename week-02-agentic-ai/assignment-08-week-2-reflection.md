@@ -46,7 +46,7 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-Add your screenshot here.
+
 
 ---
 
@@ -54,7 +54,7 @@ Add your screenshot here.
 
 Blog Link:
 
-`Add your URL here`
+``
 
 ---
 
@@ -92,7 +92,7 @@ Your post must include:
 
 #### Screenshot 2 — LinkedIn post published
 
-Add your screenshot here.
+![Screnshot 2](..\week-02-agentic-ai\screenshots\Screenshot-LinkedIn.jpg)
 
 ---
 
@@ -101,14 +101,33 @@ Add your screenshot here.
 LinkedIn Post Content (copy-paste here):
 
 ```
-Paste your LinkedIn post content here
+Reflection – Week 2
+Full Name: Oladosu Qudus
+
+1. Biggest Thing I Understood This Week
+The biggest lesson I learned this week was how Claude Code follows an Agentic Loop. Instead of simply responding to prompts, it can plan a task, execute it, verify the outcome, and refine its work when necessary. This changed how I view AI. I now understand that Agentic AI is more than a chatbot, it can act as an intelligent collaborator that accelerates development while still requiring human oversight.
+
+2. What I Learned About My Learning Style
+This week helped me realize that I learn best through hands-on practice. Reading documentation is useful, but I retain knowledge much better when I work directly in the terminal, experiment with commands, and troubleshoot issues myself. Every practical exercise made me more comfortable using development tools and the command line.
+
+3. One Repeated Challenge
+One challenge I noticed is that I tend to panic when commands fail. My first reaction is often to think I've made a major mistake. However, I learned that slowing down and carefully reading the terminal output usually leads me to the solution. Error messages are there to help, and learning to interpret them is an essential DevOps skill.
+
+4. One Moment I Am Proud Of
+One achievement I'm proud of was successfully creating the .claude/skills/ folder structure correctly. Although it seemed like a simple task, it reinforced the importance of following conventions and maintaining the correct project structure. Completing it successfully gave me more confidence working with Claude Code and custom skills.
+
+5. Technical Topics I Learned
+This week introduced me to several important technical concepts. The first was the Agentic Loop, which showed me how Claude Code can autonomously plan, execute, verify, and improve tasks. The second was learning how the .claude/skills/ directory organizes reusable skills that Claude Code can discover and execute. These topics helped me better understand how AI-assisted development environments are structured and how they improve productivity.
+
+6. Habit I Will Implement Next Week
+Starting next week, I will spend 30 minutes every evening practicing terminal commands and reviewing what I learned that day. I will also make it a habit to read error messages completely before searching for solutions. This routine will strengthen my command-line skills, improve my troubleshooting ability, reduce panic when errors occur, and help me become more confident as I continue my DevOps learning journey.
 ```
 
 ---
 
 ### LinkedIn Post Link:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/qudus-oladosu_dmibypravinmishra-agenticai-claudecode-share-7481452454723784705-E312/?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE`
 
 ---
 

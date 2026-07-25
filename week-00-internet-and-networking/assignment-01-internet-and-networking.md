@@ -34,7 +34,7 @@ Replace `task-1-chatgpt.png` with your actual screenshot file name.
 
 ## What I Learned (2–3 lines)
 
-Add your answer here...
+A protocol is a set of rules and standards that govern how data is transmitted and received between devices in a network. It ensures reliable and accurate communication.
 
 ---
 
@@ -59,7 +59,7 @@ Write a short explanation (**100–150 words**) that includes:
 
 ## Answer
 
-Add your answer here...
+When a user accesses EpicReads, they enter the domain in a browser. The browser sends a DNS request to resolve the domain into the server’s IP address in Finland. Once the IP is known, an HTTP/HTTPS GET request is sent. Using packet switching and the TCP/IP protocol, packets travel across routers until reaching the server, which responds with the requested webpages. TCP ensures reliable delivery while IP handles addressing and routing.
 
 ---
 
@@ -102,18 +102,23 @@ Replace `task-3-diagram.png` with your actual diagram file name.
 
 ### Frontend
 
-* Add your answer here...
-* Add your answer here...
+* JavaScript
+* HTML
+* CSS 
+* Figma
+
 
 ### Backend
 
-* Add your answer here...
-* Add your answer here...
+* Node.js
+* Django
+* VS Code
 
 ### Database
 
-* Add your answer here...
-* Add your answer here...
+* MySQL
+* MongoDB
+* Amazon RDS
 
 ---
 
@@ -142,7 +147,7 @@ In **50–100 words**, explain in your own words:
 
 ## Answer
 
-Add your answer here...
+Domain name is the human readable text that is used to depict a web server hosted on the internet. Computers cannot understand these texts so it has to be interpreted into an IP address, this interpretation is done by the DNS(Domain Name System) server. If the DNS server does not have a record for the website being queried, it will send the request to other servers till it gets the appropriate IP address. The DNS record type for EpicReads should be Name Server record type, this would direct query request to the appropriate servers that have the DNS record.
 
 ---
 
@@ -217,8 +222,9 @@ Add the following credit note at the end of your post:
 
 Paste your LinkedIn post URL here:
 
-```text
-Add your URL here...
+```
+https://www.linkedin.com/posts/qudus-oladosu_i-made-a-major-move-towards-fulfilling-my-activity-7413980067833376768-IxuQ?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE
+
 ```
 
 ---
@@ -227,7 +233,27 @@ Add your URL here...
 
 Paste the full text of your LinkedIn post here:
 
-Add your post content here...
+I made a major move towards fulfilling my dream of becoming a DevSecOps Engineer by enrolling for a Micro Internship with Pravin Mishra. This post contains my submission for the test tasks, hope you find it interesting.
+
+Task 1: Using ChatGPT as Your Learning Assistant
+I explored how to leverage AI to understand unfamiliar concepts. By giving ChatGPT specific prompts, I was able to get clear, detailed explanations on networking, application architecture, and DNS, which helped me learn faster and more efficiently.
+
+Task 2: Internet and Networking
+When a user accesses EpicReads, they enter the domain in a browser. The browser sends a DNS request to resolve the domain into the server’s IP address in Finland. Once the IP is known, an HTTP/HTTPS GET request is sent. Using packet switching and the TCP/IP protocol, packets travel across routers until reaching the server, which responds with the requested webpages. TCP ensures reliable delivery while IP handles addressing and routing.
+
+Task 3: Application Architecture & Stack
+Frontend: JavaScript, HTML, CSS, Figma
+Backend: Node.js, Django, VS Code
+Database: MySQL, MongoDB
+
+Task 4: Domain Name & DNS (Basic Concepts)
+A domain name is a human-readable address for a website. DNS translates it into an IP address. For EpicReads, the NS (Name Server) record is used to direct queries to the correct DNS servers, ensuring users can access the website.
+
+Task 5: Visual Studio Code Setup (Hands-on)
+This task was to setup VS Code used for both backend and frontend development to streamline coding and debugging workflows.
+
+
+P.S. This post is part of the FREE DevOps Micro Internship Cohort run by Pravin Mishra. You can start your DevOps journey for free from his YouTube Playlist.
 
 ---
 
@@ -235,19 +261,22 @@ Add your post content here...
 
 ### What did you find easy?
 
-Add your answer here...
+Using AI to improve my write-ups was straightforward, it helped me create clearer, more structured content and I could produce higher-quality work in less time.
+
 
 ---
 
 ### What was difficult?
 
-Add your answer here...
+Organizing my thoughts into writing before using AI was challenging. I often struggled to express technical ideas clearly so it took time to structure my points logically.
+
 
 ---
 
 ### What will you improve next week?
 
-Add your answer here...
+I plan to focus on gaining deeper technical understanding. I want to apply concepts more confidently in practice, this will help me write and explain content independently.
+
 
 ---
 
