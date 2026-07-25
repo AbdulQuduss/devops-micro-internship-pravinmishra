@@ -46,13 +46,15 @@ You can publish your blog on:
 
 #### Screenshot 1 — Blog published and visible
 
-
+![Screnshot](..\week-02-agentic-ai\screenshots\Screenshot-Medium.jpg)
 
 ---
 
 ### Submission Field
 
-Blog Link:
+Blog Link: 
+
+https://medium.com/@oladosuqudus/week-2-at-dmi-building-smarter-ai-workflows-with-claude-code-477f2b8c7e4d
 
 ``
 
