@@ -20,7 +20,7 @@ Choose Team Mode or Solo Mode, and document how each Scrum role (Product Owner, 
 
 #### Screenshot 1 — Jira "Create project" screen, or the project sidebar after creation
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/Screenshot4-1.jpg)
 
 ---
 
@@ -28,7 +28,14 @@ Add your screenshot here.
 
 Write one line for each role: PO (what you prioritized), SM (how you ensured process), Dev Lead (what you built), DevOps Lead (how you shipped).
 
-Write your answer here.
+* PO (Product Owner): Responsible for deciding what has the most value and should be prioritized in the backlog — in Solo Mode, this means personally ranking the Stories by business/user value in Task 4.
+
+* SM (Scrum Master): Responsible for ensuring the process is followed correctly — timeboxing, sprint ceremonies (planning, retro), and keeping the team (or yourself) accountable to Scrum practices.
+
+* Dev Lead: Responsible for what gets built — the actual implementation of the chosen UI Story in Task 8.
+
+* DevOps Lead: Responsible for how it gets shipped — committing, deploying, and verifying the change is live.
+
 
 ---
 
@@ -42,7 +49,7 @@ Create a Team-managed Scrum project named `Gotto Job – Team <#>` (Team Mode) o
 
 #### Screenshot 2 — Project created page showing the project name and key
 
-Add your screenshot here.
+![Screenshot 2](./screenshots/Screenshot4-1.jpg)
 
 ---
 
@@ -56,7 +63,7 @@ Create the Epic `Improve Gotto Job UI discoverability & trust` to group the UI i
 
 #### Screenshot 3 — Backlog showing the Epic panel with the Epic visible
 
-Add your screenshot here.
+![Screenshot 3](./screenshots/Screenshot4-3.jpg)
 
 ---
 
@@ -70,13 +77,13 @@ Create at least six Stories under the Epic, estimate each with 1, 2, or 3 story 
 
 #### Screenshot 4 — Backlog showing the Epic and at least six Stories under it
 
-Add your screenshot here.
+![Screenshot 4](./screenshots/Screenshot4-4.jpg)
 
 ---
 
 #### Screenshot 5 — One Story opened showing its Story Points and acceptance criteria filled in
 
-Add your screenshot here.
+![Screenshot 5](./screenshots/Screenshot4-5.jpg)
 
 ---
 
@@ -90,7 +97,7 @@ Confirm the Story Points (1, 2, or 3) for each Story and record brief reasoning 
 
 #### Screenshot 6 — Backlog showing Story Points visible, or two or three Stories opened showing their points
 
-Add your screenshot here.
+![Screenshot 6](./screenshots/Screenshot4-6.jpg)
 
 ---
 
@@ -98,7 +105,7 @@ Add your screenshot here.
 
 For each story, explain in one or two lines why it is a 1, 2, or 3 (mention any debate, even in Solo Mode).
 
-Write your answer here.
+
 
 ---
 
@@ -112,13 +119,13 @@ Create Sprint 1, move three or four Stories into it (approximately 3–6 points)
 
 #### Screenshot 7 — Sprint 1 with the selected Stories inside it
 
-Add your screenshot here.
+![Screenshot 7](./screenshots/Screenshot4-7.jpg)
 
 ---
 
 #### Screenshot 8 — One Story showing the Sub-tasks created
 
-Add your screenshot here.
+![Screenshot 8](./screenshots/Screenshot4-8.jpg)
 
 ---
 
@@ -132,7 +139,7 @@ Open the Burndown Chart and confirm it exists for Sprint 1. It is acceptable if 
 
 #### Screenshot 9 — Burndown Chart page opened, even if empty
 
-Add your screenshot here.
+![Screenshot 9](./screenshots/Screenshot4-9.jpg)
 
 ---
 
@@ -146,19 +153,19 @@ Implement one small UI-only Story from Sprint 1, commit it, deploy it live, and 
 
 #### Screenshot 10 — Jira board showing the Story moved to Done
 
-Add your screenshot here.
+![Screenshot 10](./screenshots/Screenshot4-10.jpg)
 
 ---
 
 #### Screenshot 11 — Git commit output
 
-Add your screenshot here.
+![Screenshot 11](./screenshots/Screenshot4-11.jpg)
 
 ---
 
 #### Screenshot 12 — Live URL in the browser showing the UI change, with the URL visible
 
-Add your screenshot here.
+![Screenshot 12](./screenshots/Screenshot4-12.jpg)
 
 ---
 
@@ -172,7 +179,7 @@ Add a retro comment covering what went well, what to improve, one Scrum pillar o
 
 #### Screenshot 13 — Jira retro comment visible
 
-Add your screenshot here.
+![Screenshot 13](./screenshots/Screenshot4-13.jpg)
 
 ---
 
@@ -188,13 +195,13 @@ Publish a LinkedIn post about what you delivered, including your live URL, three
 
 Paste your LinkedIn post URL here:
 
-`Add your URL here`
+`https://www.linkedin.com/posts/qudus-oladosu_another-devops-sprint-completed-ive-activity-7495960949317730304-GAni?utm_source=share&utm_medium=member_desktop&rcm=ACoAADJKiUcB2-kD6w7MGAUWTwb-d3Tp8qA3vuE`
 
 ---
 
 #### Screenshot 14 — Published LinkedIn post
 
-Add your screenshot here.
+![Screenshot](./screenshots/Screenshot4-LinkedIn.jpg)
 
 ---
 
