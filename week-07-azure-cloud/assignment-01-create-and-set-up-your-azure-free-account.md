@@ -30,13 +30,13 @@ Confirm successful Azure Portal access and Locate the required services and subs
 
 #### Screenshot 1 — Azure Portal homepage after successful login
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/Screenshot1-1.jpg)
 
 ---
 
 #### Screenshot 2 — "Subscriptions" section showing the "Free Trial" subscription
 
-Add your screenshot here.
+![Screenshot 1](./screenshots/Screenshot1-2.jpg)
 
 ---
 
@@ -44,7 +44,7 @@ Add your screenshot here.
 
 Write a three-to-four-line paragraph explaining which Azure services you plan to explore first and why.
 
-Write your answer here.
+I'll be using the AWS VM to create some resources and use it to deploy a webpage. This will serve as an easy entrnce into the Azure environment and teach me how to navigate the portal.
 
 ---
 
