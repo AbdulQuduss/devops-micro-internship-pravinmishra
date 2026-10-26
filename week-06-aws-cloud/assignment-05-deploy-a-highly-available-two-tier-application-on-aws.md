@@ -165,13 +165,13 @@ Confirm the application communicates with the RDS database through the ALB DNS n
 
 #### Screenshot 17 — Browser showing the application loaded through the ALB DNS name with the URL visible
 
-Add your screenshot here.
+
 
 ---
 
 #### Screenshot 18 — Proof of a database write through a UI message or database query output
 
-Add your screenshot here.
+
 
 ---
 
@@ -187,25 +187,25 @@ Test B: simulate an Availability Zone impact (stop, detach, or reduce desired ca
 
 #### Screenshot 19 — EC2 showing the terminated instance and the newly launched instance; timestamps are helpful
 
-Add your screenshot here.
+
 
 ---
 
 #### Screenshot 20 — Target group showing healthy targets after replacement
 
-Add your screenshot here.
+
 
 ---
 
 #### Screenshot 21 — Evidence that an instance was removed, detached, placed in Standby, or stopped in one Availability Zone
 
-Add your screenshot here.
+
 
 ---
 
 #### Screenshot 22 — Browser showing that the ALB DNS endpoint still works during the change
 
-Add your screenshot here.
+
 
 ---
 
@@ -219,7 +219,7 @@ Summarize the VPC/subnet layout, the ALB and Auto Scaling Group setup, the priva
 
 #### Screenshot 23 — A simple architecture diagram, which may be hand-drawn, or an AWS console overview showing the components
 
-Add your screenshot here.
+
 
 ---
 
@@ -227,19 +227,19 @@ Add your screenshot here.
 
 Summarize the VPC and subnets across the two Availability Zones.
 
-Write your answer here.
+The VPC was setup with 2 availability zones and subnets for segragation of access. This ensures that there's redundancy in the operation of the HA website. In the case where one AZ fails, the other ensures the application stills connect.
 
 Summarize the ALB and Auto Scaling Group setup.
 
-Write your answer here.
+ALB serves as the gateway to the EC2 target groups. With the configuration existing, the ASG ensures there's at least 3 applications running to serve the website and keeps them healthy. If 1 instance runs into an error state, the ASG automaticalluy shuts if off and spin up another one until all instances are healthy.
 
 Summarize the private Multi-AZ RDS setup.
 
-Write your answer here.
+The multi-AZ RDS ensures multiple storage location for the database. This ensures redundancy and prevents issues due to AZ failure
 
 Summarize the results of both high-availability tests.
 
-Write your answer here.
+The tests shows us that the setup has achieved the high availability purpose it was designed for. After each failure was orchestrated, the ALB kept serving a working application because of the redundancy checks we already put in place. 
 
 ---
 
